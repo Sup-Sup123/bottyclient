@@ -1,2 +1,5 @@
 language = "nodejs"
+
+run = "echo test 1"
+
 run = "echo Server Starting"
