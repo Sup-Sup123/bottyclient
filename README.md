@@ -20,3 +20,5 @@ PATCH:
 
 try:
  Always a letter (a - z, after that, this will be translated into a PATCHa again), try to make an update or fix working
+
+[![Run on Repl.it](https://repl.it/badge/github/Sup-Sup123/bottyclient)](https://repl.it/github/Sup-Sup123/bottyclient)
